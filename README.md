@@ -21,11 +21,11 @@ Thank you for this!
 ## Git collaboration
 [Week 3](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_git_collaboration/Week%20%E2%84%963.png)\
 [Week 4](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_git_collaboration/Week%20%E2%84%964.png)\
-As for me, all of the information was new. As usual, I made notes. I was surprised by the different ways of resolving conflicts (Week 3). I think I will use it in future, on my future projects with the team\
+As for me, all of the information was new. As usual, I made notes. I was surprised by the different ways of resolving conflicts (Week 3). I think I will use it in future, on my future projects with the team
 
 ## Intro to HTML and CSS
 [Week 1](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_html_css_intro/Intro%20HTML5.jpg)\
 [Week 2](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_html_css_intro/Intro%20CSS3.jpg)\
 [Learn HTML](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_html_css_intro/Learn%20HTML.jpg)\
 [Learn CSS](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_html_css_intro/Learn%20CSS.jpg)\
-I know everything during these tasks because I have studied HTML & CSS before. I was surprised by CodeAcademy. I didn't know that platform at all. In the future, I will use all my knowledge from this course.\
+I know everything during these tasks because I have studied HTML & CSS before. I was surprised by CodeAcademy. I didn't know that platform at all. In the future, I will use all my knowledge from this course.

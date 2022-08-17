@@ -29,3 +29,9 @@ As for me, all of the information was new. As usual, I made notes. I was surpris
 [Learn HTML](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_html_css_intro/Learn%20HTML.jpg)\
 [Learn CSS](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_html_css_intro/Learn%20CSS.jpg)\
 I know everything during these tasks because I have studied HTML & CSS before. I was surprised by CodeAcademy. I didn't know that platform at all. In the future, I will use all my knowledge from this course.
+
+## Responsive Web Design
+[Flexbox froggy](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_responsive_web_design/flexboxFroggy.jpg)\
+[Grid garden](https://github.com/YaroslavYarynych/kottans-frontend/blob/main/task_responsive_web_design/gridGarden.jpg)\
+As for me, the grid layout was new. I have never worked with it, i think flexbox is more useful than grid.\
+So it was interesting, but I hope I will almost work with flexbox
